@@ -5,3 +5,12 @@ replace the link on the dbdata json file, connection link and code can be found 
 adduser.py will add users from your team to the database
 login.py is the starting point of the program
 freeze the code using cx_freeze to pacakage and provide to users
+
+Adding users
+<img src="adduser.png?sanitize=true">
+
+Feedback application
+
+<img src="quickfeed 1.png?sanitize=true">
+<img src="quickfeed 2.png?sanitize=true">
+<img src="quickfeed 3.png?sanitize=true">
